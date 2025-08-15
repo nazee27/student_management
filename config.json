@@ -1,0 +1,14 @@
+{
+  "app_title": "Sistem Yuran Asrama (Mengaji & Silat)",
+  "branding_text": "SMK PONDOK UPEH",
+  "receipt_prefix": "DN",
+  "receipt_footer": "Resit ini dijana secara digital dan tidak memerlukan tandatangan.",
+  "receipt_logo_path": "",
+  "currency": "RM",
+  "receipt_left_label_block": "Nama\nNo. KP\nTingkatan & Kelas\nJenis Yuran\nAmaun\nTarikh Bayaran\nNo. Resit",
+  "receipt_right_label_block": "{NAMA}\n{NO_KP}\n{TINGKATAN} {KELAS}\n{FEE_TYPE}\n{CURRENCY}{AMOUNT:.2f}\n{DATE}\n{RECEIPT_NO}",
+  "ui_labels": {
+    "mengaji": "Yuran Mengaji",
+    "silat": "Yuran Silat"
+  }
+}
